@@ -1,6 +1,7 @@
 # Hi, My Name is Hargun Singh Sandhu
-
-![image not found...](https://ecommerce-sourceimages-test-f5041480.s3.ap-southeast-2.amazonaws.com/public/Kiryana/Loader.gif)
+<!-- 
+![image not found...](https://ecommerce-sourceimages-test-f5041480.s3.ap-southeast-2.amazonaws.com/public/Kiryana/Loader.gif) -->
+<img src="https://ecommerce-sourceimages-test-f5041480.s3.ap-southeast-2.amazonaws.com/public/Kiryana/Loader.gif" >
 
 <!--
 **HargunSandhu/HargunSandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
