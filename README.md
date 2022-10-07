@@ -1,5 +1,6 @@
 <img href="https://img.freepik.com/free-vector/programmer-s-workplace-writing-code-laptop_80328-238.jpg?size=626&ext=jpg&ga=GA1.2.1998532857.1665122640" height="250px" width="400px">
 <h1 align="center">Hi 👋, I'm Hargun Singh Sandhu</h1>
+<h2 align="center">I am 12 yaer old</h2>
 <h3 align="center">A passionate web developer from India</h3>
 <img alt="image not found..." src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" align="right" width="350">
 
