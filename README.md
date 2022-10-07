@@ -1,4 +1,5 @@
 ![banner](https://github.com/HargunSandhu/HargunSandhu/blob/main/Hargun%20Sandhu.png)
+<img src="https://github.com/HargunSandhu/HargunSandhu/blob/main/Hargun%20Sandhu.png" alt="banner" width="800">
 <h1 align="center">Hi 👋, I'm Hargun Singh Sandhu</h1>
 <h2 align="center">I am 12 year old passionate web developer from India</h2>
 <img alt="image not found..." src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" align="right" width="150" padding-top="30px">
