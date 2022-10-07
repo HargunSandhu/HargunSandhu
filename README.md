@@ -1,4 +1,4 @@
-<img href="https://img.freepik.com/free-vector/programmer-s-workplace-writing-code-laptop_80328-238.jpg?size=626&ext=jpg&ga=GA1.2.1998532857.1665122640">
+<img href="https://img.freepik.com/free-vector/programmer-s-workplace-writing-code-laptop_80328-238.jpg?size=626&ext=jpg&ga=GA1.2.1998532857.1665122640" height="250px" width="400px">
 <h1 align="center">Hi 👋, I'm Hargun Singh Sandhu</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
