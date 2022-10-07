@@ -1,4 +1,3 @@
-![banner](https://github.com/HargunSandhu/HargunSandhu/blob/main/Hargun%20Sandhu.png)
 <img src="https://github.com/HargunSandhu/HargunSandhu/blob/main/Hargun%20Sandhu.png" alt="banner" width="1200">
 <h1 align="center">Hi 👋, I'm Hargun Singh Sandhu</h1>
 <h2 align="center">I am 12 year old passionate web developer from India</h2>
