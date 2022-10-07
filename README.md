@@ -1,4 +1,4 @@
-<img href="https://www.canva.com/design/DAFOVo5gfso/view">
+<img href="https://www.canva.com/design/DAFOVo5gfso" height="150px" width="500px">
 <h1 align="center">Hi 👋, I'm Hargun Singh Sandhu</h1>
 <h2 align="center">I am 12 year old passionate web developer from India</h2>
 <img alt="image not found..." src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" align="right" width="150" padding-top="30px">
