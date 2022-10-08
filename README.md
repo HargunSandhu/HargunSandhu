@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **imhargunsandhu@gmail.com**
 
-- ⚡ Fun **Best things to invest are Education and me**
+- ⚡ Fact **Best things to invest are Education and me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
