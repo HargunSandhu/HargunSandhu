@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/hargunk2hs" target="blank"><img src="https://img.shields.io/twitter/follow/hargunk2hs?logo=twitter&style=for-the-badge" alt="hargunk2hs" /></a> </p>
 
-- 🔭 I’m currently working on [EzOrderMobileApp](#)
+- 🔭 I’m currently working on [Inventory App](#)
 
-- 🌱 I’m currently learning **Node Js, React Js**
+- 🌱 I’m currently learning **React Native, React Js**
 
 - 👨‍💻 All of my projects are available at [github.com/HargunSandhu](github.com/HargunSandhu)
 
