@@ -18,11 +18,11 @@
 
 - 👨‍💻 All of my projects are available at [github.com/HargunSandhu](github.com/HargunSandhu)
 
-- 💬 Ask me about **Html, Css**
+- 💬 Ask me about **HTML, CSS, Javascript**
 
 - 📫 How to reach me **imhargunsandhu@gmail.com**
 
-- ⚡ Fact **Best things to invest are Education and me**
+- ⚡ Fact **Judge me when you are perfect.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
